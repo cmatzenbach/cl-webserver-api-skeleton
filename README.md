@@ -1,4 +1,4 @@
-# Conway Fantasy Football API
+# Common Lisp Webserver/API Skeleton
 
 ## API built in Common Lisp using the Hunchentoot web server
 
